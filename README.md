@@ -5,7 +5,27 @@ The aim of this project is to explore the telecom data and find relevant problem
 
 The insights gained from this project can help telecom operators make informed decisions about their business strategy, enabling them to better meet the needs of their customers and stay competitive in the market. 
 
+## **Problems Faced by Telecom**
+* The problems faced by telecom can be broadly divided into two categories:
+     * Customer and Service Management
+     * Network and Operational Analytics
 
+* Telecom companies are using Data Science to tackle various business problems. Here are some of the ways Data Analytics is being applied in the telecom industry:
+
+  * Customer Analytics: Telecom companies use Data Science to analyze
+customer behavior and preferences to personalize offerings, optimize pricing,
+reduce churn, and enhance customer satisfaction.
+  * Network Optimization: With the help of Data Science, telecom companies can
+optimize network performance by predicting network failures, optimizing
+bandwidth allocation, and reducing latency.
+  * Fraud Detection: Data Science is used to detect and prevent fraud in telecom
+billing and other areas, resulting in significant cost savings for the industry.
+  * Marketing and Sales: Telecom companies use Data Science to develop
+targeted marketing campaigns, analyze sales trends, and identify new revenue
+opportunities.
+  * Predictive Maintenance: Telecom companies are using Data Science to perform
+predictive maintenance on network infrastructure, reducing downtime and
+improving network availability.
 
 ## **Approach**
 
